@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👤 About Me:
 I'm currently going to high school and studying programming at home.<br><br>I'm also studying C, C++ and how to work in terminal.
 
 
